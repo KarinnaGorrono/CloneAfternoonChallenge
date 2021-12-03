@@ -1,0 +1,18 @@
+.sunflower {
+    background-image: url("bee-on-sunflower-dsm-interchange.jpeg");
+    background-position: center;
+    background-size: cover;
+    min-height: 70vh
+   }
+   
+   .welcome-box{
+background-color: rgba(243, 243, 236, 0.699);
+   }
+
+body{
+    background-color: rgb(240, 240, 166);
+}
+
+.cardStyle{
+background-color: rgba(243, 243, 236, 0.699);
+}
